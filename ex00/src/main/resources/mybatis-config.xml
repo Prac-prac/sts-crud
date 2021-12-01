@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- xml 파일 편하게 사용하기 위해 dtd나 xml스키마 필요 -->
+<!DOCTYPE configuration 
+	PUBLIC "-//mybatis.org//DTD Config 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-config.dtd"> 
+<configuration>
+ 
+ 
+</configuration>
+
