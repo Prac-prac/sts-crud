@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class SampleController {
+public class SampleControllerModel {
 
-		private static final Logger logger = LoggerFactory.getLogger(SampleController.class);
+		private static final Logger logger = LoggerFactory.getLogger(SampleControllerModel.class);
 		
 		@RequestMapping("doA")
 		public void doA() {

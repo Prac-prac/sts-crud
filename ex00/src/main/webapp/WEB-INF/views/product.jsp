@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<span>${productVO.name }</span>
+	<span>${productVO.price}</span>
 	
-	<span>Hello ${msg}</span>
-	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
 </body>
 </html>
